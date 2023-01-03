@@ -19,7 +19,7 @@ public class Assignment1
 	public static void main (String [] args)
 	{
 		Assignment1 student = new Assignment1();
-		student.rollNo = 10;
+		student.rollNo = 15;
 		student.age = 25;
 		System.out.println("Student roll number is " + student.rollNo + " and age is " + student.age);
 		student.display1();
